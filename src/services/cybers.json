@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Sektor",
+        "alias": "LK-9T9",
+        "habilidades": "Misiles teledirigidos",
+        "historia": "Sektor fue uno de los primeros Lin Kuei en ser transformado en un cyborg. Se convirtió en un asesino despiadado, desprovisto de emociones humanas.",
+        "afiliaciones": "Lin Kuei",
+        "dialogo": "The Lin Kuei will rise again, and I will lead them to victory!"
+    },
+    {
+        "id": 2,
+        "nombre": "Cyrax",
+        "alias": "LK-4D4",
+        "habilidades": "Teletransportación",
+        "historia": "Originalmente, Cyrax era un guerrero Lin Kuei honorable que se convirtió en un cyborg en contra de su voluntad. Eventualmente, recuperó su humanidad y buscó revertir su cibernización.",
+        "afiliaciones": "Las Fuerzas Especiales",
+        "dialogo": "I am not a machine! I am Cyrax!"
+    },
+    {
+        "id": 3,
+        "nombre": "Triborg",
+        "alias": "Prototype LK-X",
+        "habilidades": "Bombas de energía",
+        "historia": "Triborg es el resultado de una fusión de datos de Sektor, Cyrax, Smoke y Sub-Zero, creando un super cyborg imparable con las habilidades combinadas de todos ellos.",
+        "afiliaciones": "Lin Kuei",
+        "dialogo": "We are many; you are but one."
+    }
+]
+  
